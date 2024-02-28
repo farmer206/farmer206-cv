@@ -1,2 +1,2 @@
-# rsschool-cv
-https://farmer206.github.io/rsschool-cv/cv
+# farmer206-cv
+https://farmer206.github.io/farmer206-cv/cv
