@@ -7,7 +7,7 @@ Telegram: [@farmer206th](https://t.me/farmer206th)
 
 ## **About me**
 
-I started my journey of studying front-end development 3 years ago, when I was looking for answers to the questions -  "what kind of job would I like to get up in the morning, and what would I do in it?". After a long study of various vacancies on a job search site, the choice fell on the front-end.
+I started my journey of learning front-end development in 2020, when I was looking for answers to the questions -  "what kind of job would I like to get up in the morning, and what would I do in it?". After a long study of various vacancies on a job search site, the choice fell on the front-end.
 
 
 After learning the basics of HTML, CSS, Bootstrap and JS, I was faced with the reality that this was no longer enough to get a Junior position, so I dove into deep learning of JavaScript. In parallel with my studies, I also gained experience working in technical support in the telecommunications industry, where I improved my knowledge of networks and learned how the Internet works in general.
