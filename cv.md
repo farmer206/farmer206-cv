@@ -12,10 +12,6 @@ I started my journey of studying front-end development 3 years ago, when I was l
 
 After learning the basics of HTML, CSS, Bootstrap and JS, I was faced with the reality that this was no longer enough to get a Junior position, so I dove into deep learning of JavaScript. In parallel with my studies, I also gained experience working in technical support in the telecommunications industry, where I improved my knowledge of networks and learned how the Internet works in general.
 
-
-At RS School I want to gain practical experience and consolidate theoretical knowledge.
-
-
 ## **Skills:**
 
 * HTML5
