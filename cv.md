@@ -56,9 +56,6 @@ After that, I needed to close the knowledge gaps about network technologies. I g
 * Stepik certificates:
     + [JavaScript for beginners](https://stepik.org/cert/1478322?lang=en)
     + [Web Development for beginners: HTML and CSS](https://stepik.org/cert/1472732?lang=en)
-* HTML Academy
-
-![html_academy_srt](images/hacademy-statistic.png)
 
 ## **English Language:**
 
